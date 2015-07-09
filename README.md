@@ -14,6 +14,11 @@ do open an issue.
 
 Ziyan
 
+# Limitations
+
+- Built for MySQL Database (PG support coming soon)
+- Existing DB issue not handled - see source for TODO comment
+
 ## Dependencies
 
 1. PHP
